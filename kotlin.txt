@@ -1,0 +1,2 @@
+user.name=Luis Escobar
+user.email=luisfernando.king257@gmail.com
